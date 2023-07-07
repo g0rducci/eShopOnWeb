@@ -1,4 +1,4 @@
-@description('Name for the container group')
+@description('Name for the container groups')
 param name string = 'eshopcontainer'
 
 @description('Location for all resources.')
